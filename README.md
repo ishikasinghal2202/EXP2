@@ -17,13 +17,13 @@ C++ programs follow a well-defined structure that helps organize code logically 
 
 Data Types in C++
 Data types specify the type of data a variable can hold, and they help the compiler manage memory and operations correctly.
-🔹 Fundamental Data Types:
+Fundamental Data Types:
 - int: Stores integers (e.g., int age = 20;)
 - float: Stores decimal numbers (e.g., float temp = 98.6;)
 - char: Stores single characters (e.g., char grade = 'A';)
 - bool: Stores Boolean values (true or false)
 - double: Stores large or precise decimal values
-🔹 Derived and User-defined Types:
+Derived and User-defined Types:
 - Arrays, Pointers, and Functions (Derived)
 - Structures, Classes, and Enums (User-defined)
 Each type serves a unique purpose in problem-solving and is foundational for building complex systems.
