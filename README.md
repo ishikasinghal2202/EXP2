@@ -5,10 +5,19 @@
 AIM: 
 To study and implement C++ Program Structure (Data Types)
 
+
 SOFTWARE USED:
 VS Code
 
+OBJECTIVES:
+
+     - to demonstrate memory size.
+     - introduce modifiers.
+     - to learn about various datatypes.
+
 THEORY:
+
+
 C++ programs follow a well-defined structure that helps organize code logically and efficiently. A basic C++ program includes:
 - Preprocessor Directives: These start with # and tell the compiler which libraries to include, such as #include<iostream>.
 - Main Function: int main() is where execution begins. Every C++ program must have it.
@@ -16,6 +25,7 @@ C++ programs follow a well-defined structure that helps organize code logically 
 - Return Statement: Usually return 0;, indicating successful program termination.
 
 Data Types in C++
+
 Data types specify the type of data a variable can hold, and they help the compiler manage memory and operations correctly.
 Fundamental Data Types:
 - int: Stores integers (e.g., int age = 20;)
@@ -28,6 +38,13 @@ Derived and User-defined Types:
 - Structures, Classes, and Enums (User-defined)
 Each type serves a unique purpose in problem-solving and is foundational for building complex systems.
 
-🔚 Conclusion
+
+sample output:
+
+  
+
+Conclusion:
+
+
 Understanding C++ program structure and data types is essential for writing efficient and error-free code. The structure gives clarity and flow to the program, while data types ensure proper handling and storage of data. Mastery of these concepts lays the groundwork for exploring more advanced topics like memory management, object-oriented programming, and real-world application development.
 
